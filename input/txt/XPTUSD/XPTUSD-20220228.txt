@@ -1,0 +1,15 @@
+Ticker: XPTUSD
+Currency: USD
+Date: 2022-02-28T00:00:00.000Z
+Close: 1047.18
+High: 1068.66
+Low: 1035.605
+Open: 1061.075
+Volume: 0
+Adj Close: 1047.18
+Adj High: 1068.66
+Adj Low: 1035.605
+Adj Open: 1061.075
+Adj Volume: 0
+Div Cash: 0.0
+Split Factor: 1.0

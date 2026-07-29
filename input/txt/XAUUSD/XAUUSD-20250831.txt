@@ -1,0 +1,15 @@
+Ticker: XAUUSD
+Currency: USD
+Date: 2025-08-31T00:00:00.000Z
+Close: 3448.06
+High: 3452.66
+Low: 3442.52
+Open: 3449.48
+Volume: 0
+Adj Close: 3448.06
+Adj High: 3452.66
+Adj Low: 3442.52
+Adj Open: 3449.48
+Adj Volume: 0
+Div Cash: 0.0
+Split Factor: 1.0

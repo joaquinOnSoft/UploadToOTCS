@@ -1,0 +1,15 @@
+Ticker: XAUUSD
+Currency: USD
+Date: 2024-01-28T00:00:00.000Z
+Close: 2021.92
+High: 2028.61
+Low: 2021.32
+Open: 2023.79
+Volume: 0
+Adj Close: 2021.92
+Adj High: 2028.61
+Adj Low: 2021.32
+Adj Open: 2023.79
+Adj Volume: 0
+Div Cash: 0.0
+Split Factor: 1.0

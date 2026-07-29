@@ -1,0 +1,15 @@
+Ticker: XPTUSD
+Currency: USD
+Date: 2023-09-07T00:00:00.000Z
+Close: 909.805
+High: 917.755
+Low: 902.555
+Open: 913.655
+Volume: 0
+Adj Close: 909.805
+Adj High: 917.755
+Adj Low: 902.555
+Adj Open: 913.655
+Adj Volume: 0
+Div Cash: 0.0
+Split Factor: 1.0

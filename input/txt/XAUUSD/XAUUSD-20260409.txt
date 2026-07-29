@@ -1,0 +1,15 @@
+Ticker: XAUUSD
+Currency: USD
+Date: 2026-04-09T00:00:00.000Z
+Close: 4763.83
+High: 4801.45
+Low: 4698.54
+Open: 4715.87
+Volume: 0
+Adj Close: 4763.83
+Adj High: 4801.45
+Adj Low: 4698.54
+Adj Open: 4715.87
+Adj Volume: 0
+Div Cash: 0.0
+Split Factor: 1.0

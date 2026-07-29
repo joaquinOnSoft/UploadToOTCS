@@ -1,0 +1,15 @@
+Ticker: XAUUSD
+Currency: USD
+Date: 2022-03-05T00:00:00.000Z
+Close: 1970.395
+High: 1970.395
+Low: 1970.395
+Open: 1970.395
+Volume: 0
+Adj Close: 1970.395
+Adj High: 1970.395
+Adj Low: 1970.395
+Adj Open: 1970.395
+Adj Volume: 0
+Div Cash: 0.0
+Split Factor: 1.0

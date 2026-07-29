@@ -1,0 +1,15 @@
+Ticker: XAGUSD
+Currency: USD
+Date: 2025-05-14T00:00:00.000Z
+Close: 32.218
+High: 32.962
+Low: 32.0875
+Open: 32.955
+Volume: 0
+Adj Close: 32.218
+Adj High: 32.962
+Adj Low: 32.0875
+Adj Open: 32.955
+Adj Volume: 0
+Div Cash: 0.0
+Split Factor: 1.0

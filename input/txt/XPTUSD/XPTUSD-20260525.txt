@@ -1,0 +1,15 @@
+Ticker: XPTUSD
+Currency: USD
+Date: 2026-05-25T00:00:00.000Z
+Close: 1966.3
+High: 1978.22
+Low: 1955.42
+Open: 1958.85
+Volume: 0
+Adj Close: 1966.3
+Adj High: 1978.22
+Adj Low: 1955.42
+Adj Open: 1958.85
+Adj Volume: 0
+Div Cash: 0.0
+Split Factor: 1.0

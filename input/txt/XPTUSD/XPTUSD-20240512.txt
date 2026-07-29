@@ -1,0 +1,15 @@
+Ticker: XPTUSD
+Currency: USD
+Date: 2024-05-12T00:00:00.000Z
+Close: 994.455
+High: 998.905
+Low: 993.805
+Open: 998.055
+Volume: 0
+Adj Close: 994.455
+Adj High: 998.905
+Adj Low: 993.805
+Adj Open: 998.055
+Adj Volume: 0
+Div Cash: 0.0
+Split Factor: 1.0

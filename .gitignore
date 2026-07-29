@@ -1,0 +1,11 @@
+# Virtual environment
+.venv/
+
+# idea folder, comment if you don't need it
+.idea
+# Personal configuration
+app/.env
+app/.env.XAGUSD
+app/.env.XAUUSD
+app/.env.XPTUSD
+
