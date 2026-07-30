@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 """
-upload_to_otcs_oop.py
+upload_to_otcs.py
 
-Versión orientada a objetos del script de subida de ficheros (.txt y .pdf) a un nodo
+Script de subida de ficheros (.txt y .pdf) a un nodo
 de OpenText Content Management (xECM / Extended ECM) mediante la API REST,
 asignando la categoría "Raw material" con los atributos "Name" y "Ticker".
 
 Uso:
-    python upload_to_otcs_oop.py --input ./ficheros --node 123456
-    python upload_to_otcs_oop.py -i ./ficheros -n 123456
+    python upload_to_otcs.py --input ./ficheros --node 123456
+    python upload_to_otcs.py -i ./ficheros -n 123456
 """
 
 from __future__ import annotations
