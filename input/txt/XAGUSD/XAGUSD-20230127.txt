@@ -1,6 +1,6 @@
 Ticker: XAGUSD
 Currency: USD
-Date: 2023-01-27T00:00:00.000Z
+Date: 2023-01-27
 Close: 23.609
 High: 24.0075
 Low: 23.3005
@@ -13,3 +13,5 @@ Adj Open: 23.92
 Adj Volume: 0
 Div Cash: 0.0
 Split Factor: 1.0
+
+* All prices are listed per ounce.

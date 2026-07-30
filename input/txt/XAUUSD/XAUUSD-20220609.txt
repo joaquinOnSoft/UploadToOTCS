@@ -1,6 +1,6 @@
 Ticker: XAUUSD
 Currency: USD
-Date: 2022-06-09T00:00:00.000Z
+Date: 2022-06-09
 Close: 1847.08
 High: 1855.515
 Low: 1840.165
@@ -13,3 +13,5 @@ Adj Open: 1852.91
 Adj Volume: 0
 Div Cash: 0.0
 Split Factor: 1.0
+
+* All prices are listed per ounce.

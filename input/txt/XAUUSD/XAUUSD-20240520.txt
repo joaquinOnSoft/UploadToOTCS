@@ -1,6 +1,6 @@
 Ticker: XAUUSD
 Currency: USD
-Date: 2024-05-20T00:00:00.000Z
+Date: 2024-05-20
 Close: 2426.27
 High: 2450.08
 Low: 2407.46
@@ -13,3 +13,5 @@ Adj Open: 2420.35
 Adj Volume: 0
 Div Cash: 0.0
 Split Factor: 1.0
+
+* All prices are listed per ounce.

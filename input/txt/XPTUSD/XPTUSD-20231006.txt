@@ -1,6 +1,6 @@
 Ticker: XPTUSD
 Currency: USD
-Date: 2023-10-06T00:00:00.000Z
+Date: 2023-10-06
 Close: 880.755
 High: 885.955
 Low: 854.805
@@ -13,3 +13,5 @@ Adj Open: 862.555
 Adj Volume: 0
 Div Cash: 0.0
 Split Factor: 1.0
+
+* All prices are listed per ounce.
